@@ -27,7 +27,7 @@ this.api.query('POST', 'services/orders', {
 });
 ```
 
-Параметры услуги можно получить в поле ```ServiceType.computedParameters``` (```GET /service/types```)
+Параметры услуги можно получить в поле ```ServiceType.computedParameters``` (```GET /services/types```)
 
 ### Более подробно про типы услуг и их параметры
 * [Домены](/t/types/domain.md)
